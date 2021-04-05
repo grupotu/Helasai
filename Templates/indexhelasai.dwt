@@ -1,0 +1,54 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Helasai</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../estilos.css">
+	<link rel="stylesheet" href="../fonts.css">
+	
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	
+	<!--Celulares-->
+<link href="../phone.css" rel="stylesheet" type="text/css" media="only screen and (min-width:240px) and (max-width:420px)">
+
+<!--Tablet-->
+<link href="../tablet.css" rel="stylesheet" type="text/css" media="only screen and (min-width:421px) and (max-width:1080px)">
+	
+<!--PC-->
+<link href="../pc.css" rel="stylesheet" type="text/css" media="only screen and (min-width:1080px) and (max-width:5080px)">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div id="contenedor">
+<header>
+		<div class="menu_bar">
+			<a href="#" class="bt-menu"><span class="icon-home3"></span>Menu</a>
+		</div>
+ 
+		<nav>
+			<ul>
+				<li><a href="../inicio.html"><span class="icon-home3"></span>Inicio</a></li>
+				<li><a href="../servicios.html"><span class="icon-envelop"></span>Servicios</a></li>
+				<li><a href="../galeria.html"><span class="icon-price-tag"></span>Galería</a></li>
+				<li><a href="../contacto.html"><span class="icon-phone"></span>Contacto</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<section><!-- TemplateBeginEditable name="Editame" -->Editame<!-- TemplateEndEditable -->
+	
+	
+	</section>
+	
+	<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="../menu.js"></script>
+
+	
+</div>
+</body>
+</html>
